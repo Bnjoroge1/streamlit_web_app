@@ -9,7 +9,7 @@ response_btn = st.button("Get Response")
 if response_btn:
     payload = {
         "question": query,
-        "max_response_time": 15
+        "max_response_time": 20
     }
     headers = {
         "content-type": "application/json",
