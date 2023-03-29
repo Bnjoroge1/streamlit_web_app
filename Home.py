@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-st.title("My Web App")
+
 url = "https://gpt-based-google-search.p.rapidapi.com/search"
 
 st.title("GPT-based Google Search ")
