@@ -1,16 +1,18 @@
 # InfoWizard
 ### streamlit_web_app
 InfoWizard is a multifunctional app that provides users with access to various APIs that can help them perform tasks such as paraphrasing, generating random quotes, translating text, and encoding/decoding messages using Caesar Cipher. In addition, the app also includes a GPT-based Google search API that allows users to search the web using natural language queries.
+
 Installation on Local Machine
 
 To install InfoWizard, you will need to follow these steps:
 
     Clone the repository to your local machine
-    Install the required dependencies using pip
+    Install the required dependencies using pip i.e pip install streamlit
     
 ### Usage
 
 Once the app is up and running, you can access its different functionalities by navigating to the appropriate page using the navigation bar at the left. Here are some examples of how you can use the different features:
+    ![img.png](img.png)
 
     Paraphrasing: Enter a sentence or paragraph that you want to rephrase and click the "Paraphrase" button to generate a new version of the text.
     Random Quote: Click the "Generate Quote" button to generate a random quote that you can use for inspiration or motivation.
