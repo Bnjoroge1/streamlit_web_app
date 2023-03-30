@@ -11,9 +11,9 @@ To install InfoWizard, you will need to follow these steps:
     
 ### Usage
 
-Once the app is up and running, you can access its different functionalities by navigating to the appropriate page using the navigation bar at the left. Here are some examples of how you can use the different features:
-
+Once the app is up and running, you can access its different functionalities by navigating to the appropriate page using the navigation bar at the left.
 ![App ScreenShot](screenshot.png)
+Here are some examples of how you can use the different features:
 
     Paraphrasing: Enter a sentence or paragraph that you want to rephrase and click the "Paraphrase" button to generate a new version of the text.
     Random Quote: Click the "Generate Quote" button to generate a random quote that you can use for inspiration or motivation.
